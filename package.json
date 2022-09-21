@@ -12,7 +12,7 @@
     "shufflejs": "^5.2.3",
     "underscore": "^1.10.2",
     "vue": "^2.6.11",
-    "vuetify": "^2.2.28"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.2",
